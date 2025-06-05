@@ -1,0 +1,1 @@
+Análise e preparação de dados de clientes para um e-commerce para buscar a hipótese assertiva de suas preferencias musicais e isso inclui limpeza, transformação e estruturação para gerar insights estratégicos e melhorar a experiência do usuário.
