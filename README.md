@@ -22,7 +22,8 @@ Jupyter Notebook
 
 Git para controle de versão
 
-📚 O que Aprendi
+📚 O que foi aplicado:
+
 Pré-processamento de dados: tratamento de valores ausentes, padronização e remoção de duplicatas
 
 Análise comparativa: agrupamento por múltiplos critérios (cidade e dia)
